@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		336430F825C6194F00AAFD9F /* TweetViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 336430F725C6194F00AAFD9F /* TweetViewController.swift */; };
 		33C0F53125BA688C008F166A /* LoginViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 33C0F53025BA688C008F166A /* LoginViewController.swift */; };
 		33C0F53425BA7101008F166A /* HomeTableViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 33C0F53325BA7101008F166A /* HomeTableViewController.swift */; };
 		33C0F53725BBF601008F166A /* TweetTableViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 33C0F53625BBF601008F166A /* TweetTableViewCell.swift */; };
@@ -19,6 +20,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		336430F725C6194F00AAFD9F /* TweetViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TweetViewController.swift; sourceTree = "<group>"; };
 		33C0F53025BA688C008F166A /* LoginViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LoginViewController.swift; sourceTree = "<group>"; };
 		33C0F53325BA7101008F166A /* HomeTableViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HomeTableViewController.swift; sourceTree = "<group>"; };
 		33C0F53625BBF601008F166A /* TweetTableViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TweetTableViewCell.swift; sourceTree = "<group>"; };
@@ -85,6 +87,7 @@
 				33C0F53025BA688C008F166A /* LoginViewController.swift */,
 				33C0F53325BA7101008F166A /* HomeTableViewController.swift */,
 				33C0F53625BBF601008F166A /* TweetTableViewCell.swift */,
+				336430F725C6194F00AAFD9F /* TweetViewController.swift */,
 			);
 			path = Twitter;
 			sourceTree = "<group>";
@@ -211,6 +214,7 @@
 			files = (
 				33C0F53425BA7101008F166A /* HomeTableViewController.swift in Sources */,
 				33C0F53125BA688C008F166A /* LoginViewController.swift in Sources */,
+				336430F825C6194F00AAFD9F /* TweetViewController.swift in Sources */,
 				6EBCF54421E047A500451C03 /* TwitterAPICaller.swift in Sources */,
 				33C0F53725BBF601008F166A /* TweetTableViewCell.swift in Sources */,
 				6EBCF52621DF07FC00451C03 /* AppDelegate.swift in Sources */,
