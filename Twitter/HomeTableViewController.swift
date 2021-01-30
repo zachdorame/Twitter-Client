@@ -102,10 +102,7 @@ class HomeTableViewController: UITableViewController {
     }
     
     override func viewDidAppear(_ animated: Bool) {
-        print("HERE")
         super.viewDidAppear(animated)
-        loadTweets()
-        tableView.reloadData()
-        print("NOW I'M HERE")
+        self.loadTweets()
     }
 }
